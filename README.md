@@ -84,7 +84,7 @@ but **who it was made for**.
 
 ## 📽 Demo
 
-[![Christmas Gacha Demo](./demo/thumbnail.png)](./demo/demo.mp4)
+[![Christmas Gacha Demo](./demo/thumbnail.png)](https://drive.google.com/file/d/1NJK3--gmzcR_Zya9B6FyEc7PCXXfosAg/view?usp=sharing)
 
 Click the image to watch the demo video.
 
